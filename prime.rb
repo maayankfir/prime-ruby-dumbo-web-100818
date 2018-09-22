@@ -7,4 +7,3 @@ require 'prime'
     false
   end
 end
-
