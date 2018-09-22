@@ -1,8 +1,10 @@
 # Add  code here!
 def prime?(number)
-  if number.prime?
+require 'prime'
+  if Prime.prime?(number)
     true
   else
     false
   end
 end
+
